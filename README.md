@@ -1,6 +1,8 @@
 <div align="center">
   <h1>👋 Hello, I'm Thomas Amir!</h1>
-  <p>A Robotics enthusiast 🤖 Science is curiosity systematized 🧪; robotics is its methodical execution ⚙️. Together, they forge progress 🚀</p>
+  <p>A Robotics enthusiast 🤖 Science is curiosity systematized 🧪</p>
+  <p>robotics is its methodical execution ⚙️.</p>
+  <p>Together, they forge progress 🚀</p>
 </div>
 
 <p align="center">
@@ -26,4 +28,3 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ## 🚀 Experience
-
