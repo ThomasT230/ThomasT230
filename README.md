@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Thomas Amir!</h1>
-  <p>A Robotics enthusiast 🤖 exploring the fascinating realm of hardware and software integration</p>
+  <p>A Robotics enthusiast 🤖 Science is curiosity systematized 🧪; robotics is its methodical execution ⚙️. Together, they forge progress 🚀</p>
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## About Me
 - 🤖 A Mechatronics Engineering Student at the Canadian International College - New Cairo Campus
-- 🔌 Always seeking innovative ways to solve real-world problems.
+- Combining scientific curiosity 🔍 with robotic precision ⚙️. Building systems where code and mechanics turn ideas into autonomous solutions.
 
 ### 📫 Connect with me :
 
