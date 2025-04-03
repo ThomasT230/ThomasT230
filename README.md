@@ -31,3 +31,5 @@
 
 # 📊 GitHub Stats:
 ![ThomasT230's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThomasT230&theme=tokyonight&hide_border=true)
+![ThomasT230's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThomasT230&theme=tokyonight&hide_border=true)
+![ThomasT230's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasT230&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
